@@ -1,5 +1,5 @@
 # dict_CP1256_to_UTF8
-when we want to retrieve data in json via pymssql, and database collation is  SQL_Latin1_General_CP1256_CI_AS we should convert all str to utf8
+when we want to retrieve data in dict via pymssql 2.1.5, and database collation is  SQL_Latin1_General_CP1256_CI_AS we should convert all str to utf8
 
 when you have connection like this :
 
