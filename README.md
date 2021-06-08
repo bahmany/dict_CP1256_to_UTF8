@@ -1,0 +1,1 @@
+# dict_CP1256_to_UTF8
